@@ -6,3 +6,8 @@ eleventyNavigation:
   order: 2
 ---
 now page
+
+|||
+|---|---|
+|yo this is longer|hey|
+|hey|whatssssuppppp|

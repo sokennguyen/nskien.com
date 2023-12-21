@@ -104,6 +104,13 @@ pre {
   margin: .5em 0;
   background-color: #f6f6f6;
 }
+.note {
+  font-size: .8rem;
+  font-weight: 300;
+  margin-bottom: 1.5rem;
+  font-style: italic;
+  max-width: 50ch;
+}
 .highlight-line {
   display: block;
   padding: 0.125em 1em;

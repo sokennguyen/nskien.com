@@ -1,10 +1,12 @@
 ---
 layout: layouts/post.njk
-title: Hello! I'm Kiên
 templateClass: tmpl-post
 eleventyNavigation:
   key: about 
   order: 1
 ---
+## Hello! I'm Kiên
 
-I am a person that writes stuff.
+I learn, design, and make computer do stuff.
+
+For what I'm up to lately, check out [my now page](/now/).

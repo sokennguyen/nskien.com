@@ -3,7 +3,7 @@ title: Silence
 description: Thoughs appears after noises are muted
 date: 2023-12-21
 ---
-Day by day, when I [turn the Internet off](/nonet), sound is the first thing that vanishes in an instant, and I don't become at peace with it easily.
+Day by day, when I [turn the Internet off](/posts/nonet), sound is the first thing that vanishes in an instant, and I don't become at peace with it easily.
 
 Flickering instruments from music, people's voices and ideas from podcasts or videos, altogether stop scouring into my head in just a split of a second.
 

@@ -1,6 +1,6 @@
 ---
 title: Silence
-description: Thoughs appears after noises are muted
+description: Thoughs appear after noises are muted
 date: 2023-12-21
 ---
 Day by day, when I [turn the Internet off](/posts/nonet), sound is the first thing that vanishes in an instant, and I don't become at peace with that event easily.
@@ -15,7 +15,7 @@ Ears still ringing from the earphones, which I thought were on just enough volum
 
 The buzzing slowly phases away, and during such seconds, there came a realisation that I've just once again lower my hearing ability.
 
-But as the buzzing noise phases, other lively sounds starts appearing again. Footsteps, finger-tapping, car engines, wind hissing through the old wooden window start filling up the atmosphere.
+But as the buzzing noise phases, other lively sounds start appearing again. Footsteps, finger-tapping, car engines, wind hissing through the old wooden window start filling up the atmosphere.
 
 I then hear my thoughts speaking up again, after I have allowed them to do so. Such voice is so little but frantic because it is used to the fast moving things I have been listening to on the web. But soon, too, that voice becomes calmer by the minutes.
 

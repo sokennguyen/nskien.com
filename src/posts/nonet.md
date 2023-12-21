@@ -3,7 +3,6 @@ title: Internet Dizziness
 description: Using degital devices alters your brain
 date: 2023-11-21
 tags: second-tag
-layout: layouts/post.njk
 ---
 I have been cutting off the internet from my home.
 

@@ -1,0 +1,26 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-sprint
+---
+<h1>{{ title }}</h1>
+
+<hr>
+<ul>
+  {% for story in collections.stories %}
+    {% if story.data.tags.indexOf(title.slice(0, 6)) !== -1 %}
+      {% if story.data.tags.indexOf('done') !== -1 %}<s>{% endif %}
+  <li><a href="{{ story.url | url }}">{{ story.data.title }}</a>
+      {% if story.data.tags.indexOf('done') !== -1 %}</s>{% endif %}
+    {% endif %}
+  {% endfor %}
+</ul>
+
+{{ content | safe }}
+
+<hr>
+<ul>
+  {%- set nextSprint = collections.sprints | getNextCollectionItem(page) %}
+  {%- if nextSprint %}<li>Next: <a href="{{ nextSprint.url | url }}">{{ nextSprint.data.title }}</a></li>{% endif %}
+  {%- set previousSprint = collections.sprints | getPreviousCollectionItem(page) %}
+  {%- if previousSprint %}<li>Previous: <a href="{{ previousSprint.url | url }}">{{ previousSprint.data.title }}</a></li>{% endif %}
+</ul>

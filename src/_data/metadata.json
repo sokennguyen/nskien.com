@@ -1,0 +1,20 @@
+{
+  "title": "nskien.xyz",
+  "url": "https://nskien.xyz/",
+  "description": "Yellow",
+  "feed": {
+    "subtitle": "Yellow",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://nskien.xyz/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://nskien.xyz/feed/feed.json"
+  },
+  "author": {
+    "name": "Kien Nguyen",
+    "email": "nsongkien@gmail.com",
+    "url": "https://nskien.com/about-me/"
+  }
+}

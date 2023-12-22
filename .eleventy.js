@@ -8,7 +8,7 @@ const markdownItAnchor = require("markdown-it-anchor");
 
 module.exports = function(eleventyConfig) {
   //for config.yml of admin (Decap CMS)
-  eleventyConfig.addPassthroughCopy("./src/admin/");
+  eleventyConfig.addPassthroughCopy("./src/supersecretshit/");
 
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);

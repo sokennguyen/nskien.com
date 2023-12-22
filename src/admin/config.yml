@@ -7,9 +7,9 @@ public_folder: "/posts"
 collections:
   - name: "post" 
     label: "Post"
-    folder: "posts"
+    folder: "/src/posts"
     create: true 
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" 
+    slug: "{{slug}}" 
     fields: 
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}

@@ -15,7 +15,7 @@ collections:
         name: "Date"
         widget: "datetime"
         default: ""
-        date_format: "DD.MM.YYYY" # e.g. 24.12.2021
+        date_format: "YYYY-MM-DD" # e.g. 24.12.2021
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list", default: ["post"] }

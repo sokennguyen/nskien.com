@@ -7,4 +7,4 @@ tags:
 ---
 # **Hi**
 
-![nice](/posts/nice.jpeg)
+![nice](/img/nice.jpeg)

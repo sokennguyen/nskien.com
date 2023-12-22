@@ -12,10 +12,11 @@ collections:
     slug: "{{slug}}" 
     fields: 
       - label: "Date"
-        name: "Date"
+        name: "date"
         widget: "datetime"
         default: ""
         date_format: "YYYY-MM-DD" # e.g. 24.12.2021
+        time_format: false
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list", default: ["post"] }

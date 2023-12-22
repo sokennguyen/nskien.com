@@ -1,8 +1,8 @@
 ---
+date: 2023-09-01
 title: Irresponsible vs Coward
 description: Conflicting decisions
-date: 2023-09-01
-tags: second-tag
+tags: []
 ---
 ## Why asking this question in the first place?
 The question came up when I think about the things I want to do with my time. I have already established, at least up to this point, that I want to use my time to create things that people will use. Furthermore, I have decided that I will use my interests as the fuel for my work.

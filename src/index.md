@@ -1,11 +1,8 @@
 ---
-layout: layouts/base.njk
-templateClass: tmpl-base
-eleventyNavigation:
-  key: about 
-  order: 1
+layout: layouts/home.njk
 ---
-## Hello! I'm Kien. 
+
+## Hello! I'm Kien.
 
 I write about learning, design, software, and ideas.
 

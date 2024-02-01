@@ -1,0 +1,9 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-base
+eleventyNavigation:
+  key: thoughts
+  order: 1
+---
+{% set postslist = collections.posts %}
+{% include "postslist.njk" %}

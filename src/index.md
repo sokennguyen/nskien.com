@@ -23,8 +23,7 @@ You can also find me on [GitHub](https://github.com/sokennguyen) and [LinkedIn](
 |---:|:---|
 |[Totally Random](https://temporary-gopher-c8f7.hony.app/app/)|Get random facts for random things|
 |[FavBlogs](https://kien-blogapp.fly.dev/)|Save your favorite blogs around the Web|
-|[Shared Notes](https://noteapp-nskien.fly.dev/)|Notes for everyone to see|
-|[Phonebook](https://phonebook-nskien.fly.dev/)|Public phonebook|
+|[Notes4u](https://noteapp-nskien.fly.dev/)|Notes for everyone to see|
+|[Phonebook](https://phonebook-nskien.fly.dev/)|A Public phonebook|
 |[Lucid](https://github.com/sokennguyen/Lucid)|Whisper your wildest dreams|
-|[Scheduler](https://github.com/sokennguyen/WPF_barber)|Scheduler for barbers|
-
+|[BarSched](https://github.com/sokennguyen/WPF_barber)|Scheduler for barbers|

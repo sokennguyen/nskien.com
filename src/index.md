@@ -19,8 +19,12 @@ You can also find me on [GitHub](https://github.com/sokennguyen) and [LinkedIn](
 
 ### Recent Projects
 
-[Shared Favorite Blogs](https://kien-blogapp.fly.dev/)
-[Shared Notes](https://noteapp-nskien.fly.dev/)
-[Phonebook](https://phonebook-nskien.fly.dev/)
-[Scheduler](https://github.com/sokennguyen/WPF_barber)
+|||
+|---:|:---|
+|[Totally Random](https://temporary-gopher-c8f7.hony.app/app/)|Get random facts for random things|
+|[FavBlogs](https://kien-blogapp.fly.dev/)|Save your favorite blogs around the Web|
+|[Shared Notes](https://noteapp-nskien.fly.dev/)|Notes for everyone to see|
+|[Phonebook](https://phonebook-nskien.fly.dev/)|Public phonebook|
+|[Lucid](https://github.com/sokennguyen/Lucid)|Whisper your wildest dreams|
+|[Scheduler](https://github.com/sokennguyen/WPF_barber)|Scheduler for barbers|
 

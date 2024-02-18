@@ -3,14 +3,14 @@ backend:
   name: git-gateway
   branch: main
 media_folder: "/src/img"
-public_folder: "/posts" 
+public_folder: "/posts"
 collections:
-  - name: "post" 
+  - name: "post"
     label: "Post"
     folder: "/src/posts"
-    create: true 
-    slug: "{{slug}}" 
-    fields: 
+    create: true
+    slug: "{{slug}}"
+    fields:
       - label: "Date"
         name: "date"
         widget: "datetime"

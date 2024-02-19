@@ -6,8 +6,6 @@ layout: layouts/home.njk
 
 I write about learning, design, software, and ideas.
 
-
-
 I create stuff to learn, hoping those things will become cool someday.
 
 You can reach me via [e-mail](mailto:%20nsongkien@gmail.com). I always response, but not quickly.
@@ -21,10 +19,10 @@ You can also find me on [GitHub](https://github.com/sokennguyen) and [LinkedIn](
 
 |||
 |---:|:---|
+|[Lucid](https://github.com/sokennguyen/Lucid)|Whisper your wildest dreams|
 |[Totally Random](https://temporary-gopher-c8f7.hony.app/app/)|Get random facts for random things|
 |[Color Halloween](https://ch.nskien.xyz/)|Coloring page for children to learn basic arithmetics|
 |[FavBlogs](https://fblog.nskien.xyz/)|Save your favourite blogs around the Web|
 |[Notes4u](https://note.nskien.xyz/)|Notes for everyone to see|
 |[Phonebook](https://pb.nskien.xyz/)|A Public phonebook|
-|[Lucid](https://github.com/sokennguyen/Lucid)|Whisper your wildest dreams|
 |[BarSched](https://github.com/sokennguyen/WPF_barber)|Scheduler for barbers|

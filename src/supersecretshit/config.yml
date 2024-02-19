@@ -1,6 +1,7 @@
 ---
 backend:
   name: git-gateway
+  repo: sokennguyen/nskien.xyz
   branch: main
 media_folder: "/src/img"
 public_folder: "/posts"

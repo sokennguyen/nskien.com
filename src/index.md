@@ -19,7 +19,7 @@ You can also find me on [GitHub](https://github.com/sokennguyen) and [LinkedIn](
 
 |||
 |---:|:---|
-|[Lucid](https://github.com/sokennguyen/Lucid)|Whisper your wildest dreams|
+|[Lucid](https://outside-beetle-938d.hiku.app/app/)|Whisper your wildest dreams|
 |[Totally Random](https://temporary-gopher-c8f7.hony.app/app/)|Get random facts for random things|
 |[Color Halloween](https://ch.nskien.xyz/)|Coloring page for children to learn basic arithmetics|
 |[FavBlogs](https://fblog.nskien.xyz/)|Save your favourite blogs around the Web|

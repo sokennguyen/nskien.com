@@ -11,7 +11,7 @@ I create stuff to learn, hoping those things will become cool someday.
 I love meeting new people, and I reply to every email, so say [hello](mailto:%20nsongkien@gmail.com).
 Please share your favorite jokes, books, [music](https://open.spotify.com/playlist/7ISChHyzVFTHl4H8rgu85G?si=e9a5bc24d5e64823), [movies](https://letterboxd.com/nskien/likes/films/), etc.
 
-You can also find me on [X(Twitter)](https://twitter.com/nguyensoken), [GitHub](https://github.com/sokennguyen) and [LinkedIn](https://www.linkedin.com/in/kien-nguyen-song-960b92219/).
+You can also find me on [X(Twitter)](https://twitter.com/nguyensoken), [GitHub](https://github.com/sokennguyen) and [LinkedIn](https://www.linkedin.com/in/nskien/).
 
 ---
 

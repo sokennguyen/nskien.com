@@ -16,6 +16,6 @@ This sums up the advantages of limiting your spendings:
 >
 > If you look at the most successful companies or people, they tend to have a significant reserve and that allows them to make choices. Without that reserve, many choices go away. With no reserve, choice almost entirely disappears.
 >
-> If your goal is freedom, you need to buy that freedom.
+> ***If your goal is freedom, you need to buy that freedom.***
 
 \- [programminggeek](https://news.ycombinator.com/user?id=programminggeek) on [Hacker News](https://news.ycombinator.com)

@@ -35,8 +35,8 @@ tags:
 >
 > Most places you can now live for $1,000 a month. Not the big cities, but a lot of other places outside America and Europe, you can live for $1000 a month.
 >
-> The world is your oyster.
+> **The world is your oyster.**
 >
-> What a time to be 21.
+> **What a time to be 21.**
 
 \- Pieter Levels [AMA on Twitch w/@roxkstar74 @ 03:21:25](https://youtu.be/dKxyHAB948s?t=12085)

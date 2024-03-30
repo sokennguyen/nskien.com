@@ -19,7 +19,7 @@ You can also find me on [X(Twitter)](https://twitter.com/nguyensoken), [GitHub](
 
 |||
 |---:|:---|
-|[Dreamember](https://dreamember.xyz)|Remember your dreams, before they fade away|
+|[Dreamember](https://dreamember.xyz)|Your dream archive|
 |[Harmless Pull](https://pull.dreamember.xyz)|Quickly test your luck out|
 |[Totally Random](https://temporary-gopher-c8f7.hony.app/app/)|Get random facts for random things|
 |[Color Halloween](https://ch.nskien.xyz/)|Coloring page for children to learn basic arithmetics|

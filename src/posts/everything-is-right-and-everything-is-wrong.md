@@ -7,11 +7,7 @@ tags:
 ---
 One things seems so right when you really squeeze out every inch of rationality to explain it.
 
-
-
 But such thing is also true when you try and ration about the opposite ideas.
-
-
 
 This is especially the case when we discuss about the meaning of life.\
 "What should we do with our life" have always been the debate since the dawn of the human race.
@@ -19,12 +15,8 @@ This is especially the case when we discuss about the meaning of life.\
 The debate doesn't have an ending, because all of the perspectives are logically correct.\
 But then we look took another perspective, the original ideas of living are so wrong.
 
-
-
 Pursuing monetary riches is the way to live, but living peacefully without the care of wealth is also the way to live.\
-Both of them have their reasons to be correct, and reasons to be wrong when looking at the opposite viewpoint.
-
-
+Both of them have their reasons to be correct, and reasons to be wrong when looking from the opposite viewpoint.
 
 So since everything is right, and everything is wrong, I think that we should just choose something and go with it without further worries.
 

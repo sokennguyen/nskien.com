@@ -15,8 +15,10 @@ This is especially the case when we discuss about the meaning of life.\
 The debate doesn't have an ending, because all of the perspectives are logically correct.\
 But then we look took another perspective, the original ideas of living are so wrong.
 
-Pursuing monetary riches is the way to live, but living peacefully without the care of wealth is also the way to live.\
+Pursuing monetary riches is the way to live, but living peacefully without the care of wealth also is the way to live.\
 Both of them have their reasons to be correct, and reasons to be wrong when looking from the opposite viewpoint.
+
+This is true for pursuing the life of art, love, competition, fame, and so on.
 
 So since everything is right, and everything is wrong, I think that we should just choose something and go with it without further worries.
 

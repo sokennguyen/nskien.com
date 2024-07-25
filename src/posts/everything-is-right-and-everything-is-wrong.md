@@ -18,7 +18,7 @@ But then we look took another perspective, the original ideas of living are so w
 Pursuing monetary riches is the way to live, but living peacefully without the care of wealth also is the way to live.\
 Both of them have their reasons to be correct, and reasons to be wrong when looking from the opposite viewpoint.
 
-This is the case for weighing the pursuit of art, love, competition, fame, and so on.
+This is also the case for weighing the pursuit of art, love, competition, fame, and so on.
 
 So since everything is right, and everything is wrong, I think that we should just choose something and go with it without further worries.
 

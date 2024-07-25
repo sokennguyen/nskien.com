@@ -24,7 +24,7 @@ So since everything is right, and everything is wrong, I think that we should ju
 
 The decision will be right, yet still wrong, no matter what we choose.
 
-The worst I can do is not deciding, and therefore not doing anything with my life.
+The worst thing I can do is not deciding, and therefore not doing anything with my life.
 
 Choosing how to live based on other people's opinions is one way to make that decision.\
 Choosing not to listen to other people is the better option though, because you've made that choice with your own reasonings.

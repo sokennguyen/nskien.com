@@ -10,7 +10,7 @@ One things seems so right when you really squeeze out every inch of rationality 
 But such thing is also true when you try and ration about the opposite ideas.
 
 This is especially the case when we discuss about the meaning of life.\
-"What should we do with our life" have always been the debate since the dawn of the human race.
+"What should we do with our lives" have always been the debate since the dawn of the human race.
 
 The debate doesn't have an ending, because all of the perspectives are logically correct.\
 But then we look took another perspective, the original ideas of living are so wrong.

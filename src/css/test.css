@@ -1,0 +1,6 @@
+blockquote {
+  font-size: larger;
+}
+blockquote strong {
+  background-color: gray
+}

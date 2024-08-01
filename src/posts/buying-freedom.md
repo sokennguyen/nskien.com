@@ -5,6 +5,7 @@ description: Spending money on shits is less actractive than spending money on
   your own time.
 tags:
   - post
+cssFile: 'test.css'
 ---
 This sums up the advantages of limiting your spendings:
 

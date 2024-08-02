@@ -5,8 +5,9 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const markdownItAttrs = require("markdown-it-attrs");
 
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
   //for config.yml of admin (Decap CMS)
   eleventyConfig.addPassthroughCopy("./src/supersecretshit/");
 
@@ -18,32 +19,32 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
-  eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd.MM.yyyy");
+  eleventyConfig.addFilter("readableDate", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("dd.MM.yyyy");
   });
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-  eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('dd-LL-yyyy');
+  eleventyConfig.addFilter("htmlDateString", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("dd-LL-yyyy");
   });
 
   // Get the first `n` elements of a collection.
   eleventyConfig.addFilter("head", (array, n) => {
-    if( n < 0 ) {
+    if (n < 0) {
       return array.slice(n);
     }
 
     return array.slice(0, n);
   });
 
-  eleventyConfig.addCollection("tagList", function(collection) {
+  eleventyConfig.addCollection("tagList", function (collection) {
     let tagSet = new Set();
-    collection.getAll().forEach(function(item) {
-      if( "tags" in item.data ) {
+    collection.getAll().forEach(function (item) {
+      if ("tags" in item.data) {
         let tags = item.data.tags;
 
-        tags = tags.filter(function(item) {
-          switch(item) {
+        tags = tags.filter(function (item) {
+          switch (item) {
             // this list should match the `filter` list in tags.njk
             case "all":
             case "nav":
@@ -72,19 +73,21 @@ module.exports = function(eleventyConfig) {
   let markdownLibrary = markdownIt({
     html: true,
     breaks: true,
-    linkify: true
-  }).use(markdownItAnchor, {
-    permalink: true,
-    permalinkClass: "direct-link",
-    permalinkSymbol: "#"
-  });
+    linkify: true,
+  })
+    .use(markdownItAnchor, {
+      permalink: true,
+      permalinkClass: "direct-link",
+      permalinkSymbol: "#",
+    })
+    .use(markdownItAttrs);
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Browsersync Overrides
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
-      ready: function(err, browserSync) {
-        const content_404 = fs.readFileSync('dist/404.html');
+      ready: function (err, browserSync) {
+        const content_404 = fs.readFileSync("dist/404.html");
 
         browserSync.addMiddleware("*", (req, res) => {
           // Provides the 404 content without redirect.
@@ -94,16 +97,11 @@ module.exports = function(eleventyConfig) {
       },
     },
     ui: false,
-    ghostMode: false
+    ghostMode: false,
   });
 
   return {
-    templateFormats: [
-      "md",
-      "njk",
-      "html",
-      "liquid"
-    ],
+    templateFormats: ["md", "njk", "html", "liquid"],
 
     // If your site lives in a different subdirectory, change this.
     // Leading or trailing slashes are all normalized away, so don’t worry about those.
@@ -124,7 +122,7 @@ module.exports = function(eleventyConfig) {
       input: "src",
       includes: "_includes",
       data: "_data",
-      output: "dist"
-    }
+      output: "dist",
+    },
   };
 };

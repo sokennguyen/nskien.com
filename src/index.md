@@ -1,8 +1,9 @@
 ---
 layout: layouts/home.njk
+cssFile: 'home.css'
 ---
 
-## Hello! I'm Kien.
+# Hello! I'm Kien. {.title}
 
 I write about learning, design, software, and ideas.
 

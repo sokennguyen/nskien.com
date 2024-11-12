@@ -7,7 +7,7 @@ tags:
 ---
 Either all in or nothing.
 
-Either full abstance or full indulgence.
+Either full abstence or full indulgence.
 
 There is no such thing as moderation, because the thing you're trying to "balance" or "moderate" is the things that you've already know you're not supposed to do. They are things that are against your value.
 

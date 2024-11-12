@@ -9,7 +9,7 @@ Either all in or nothing.
 
 Either full abstance or full indulgence.
 
-Their is no such thing as moderation, because the thing you're trying to "balance" or "moderate" is the things that you've already know you're not supposed to do. They are things that are against your value.
+There is no such thing as moderation, because the thing you're trying to "balance" or "moderate" is the things that you've already know you're not supposed to do. They are things that are against your value.
 
 By doing only just a little of the things against your values is the same as treating your values lightly.
 

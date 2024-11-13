@@ -7,7 +7,7 @@ tags:
 ---
 How to know what to do with life:
 
-Life have no meaning, that is the base for everything in life, and the one thing you need to remember in every dicision in life.
+Life have no meaning, that is the base for everything in life, and the one thing you need to remember in every decision in life.
 
 Because life has no meaning, you can do whatever the fuck you please, no guilt.
 

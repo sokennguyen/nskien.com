@@ -1,6 +1,6 @@
 ---
 date: 2024-11-13
-title: On how to spending time
+title: On how to spend time
 description: The actual way to figure it out
 tags:
   - post

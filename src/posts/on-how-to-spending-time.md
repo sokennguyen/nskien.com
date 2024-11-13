@@ -15,7 +15,7 @@ If doing charity, that is, giving your time, intelligence, talent, or money to o
 
 Doing anything besides charity is for your own self. Heck, even with the benefits of doing charity is for your own pleasure, of feeling superior, of feeling useful, of being purposeful ect.
 
-That makes doing everything is for yourself, period. Feel no guilt in doing anything, besides doing harm to others. You don't have no purpose when you were born, there are no universe telling you what you're supposed to do with your life, there are no ultimate goals destined for you. That is not a depressing claim, but rather the most liberating thought you can hear right now, if you have been having existential crises.
+That makes doing everything is for yourself, period. Feel no guilt in doing anything, besides doing harm to others. You don't have no purpose when you were born, there are no universe telling you what you're supposed to do with your life, there are no ultimate goals destined for you. That is not a depressing claim, but rather the most liberating thought you can hear right now, if you have been having existential crises. That's why you've clicked on this link, right?
 
 That is the first thing you need to understand and always remember, especially when you are questioning your direction in life. With that block out of the way, you have a series of block that is in the same category. I call this series of block "living basics".
 

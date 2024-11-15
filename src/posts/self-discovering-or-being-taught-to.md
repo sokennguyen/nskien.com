@@ -7,7 +7,7 @@ tags:
 ---
 You give yourself meaning to the subject that you're wondering about\
 
-vs\
+vs
 
 Watch online content telling you how to think about that subject.
 

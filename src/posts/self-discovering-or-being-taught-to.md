@@ -6,7 +6,9 @@ tags:
   - post
 ---
 You give yourself meaning to the subject that you're wondering about\
+
 vs\
+
 Watch online content telling you how to think about that subject.
 
 For the majority of my life, the values that I adopted for myself were taught to me by the outside world.\

@@ -15,7 +15,7 @@ For the majority of my life, the values that I adopted for myself were taught to
 My parents taught me how to behave, what's right and wrong. Then when the age came, school started teaching me those things as well.\
 That was my only way to understand what the world is about.\
 My parents and school also share a similar trait: It was difficult for me to ask them life questions, you know, the ones that are not trivial and hard to answer.\
-So I understood life just as my school and parents told me to, and when I questioned something about life that I didn't understand, I shoved the question away, because there wasn't any other way for me to know the answers.
+So I understood life just as my school and parents told me to, and when I questioned something about life that I didn't understand, I shoved the question away, because there wasn't any way for me to know the answers.
 
 Fast forward a bit, and the internet has entered my life.\
 I learned to seek answers to my trivial questions by searching up Reddit, YouTube, and when I'm really desperate, Quora.\

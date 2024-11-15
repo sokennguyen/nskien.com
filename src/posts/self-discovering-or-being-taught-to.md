@@ -5,7 +5,7 @@ description: Listen to yourself dawg
 tags:
   - post
 ---
-You give yourself meaning to the subject that you're wondering about\
+You give yourself meaning to the subject that you're wondering about
 
 vs
 

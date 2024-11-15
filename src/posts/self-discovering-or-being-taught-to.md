@@ -20,7 +20,8 @@ So I understood life just as my school and parents told me to, and when I questi
 Fast forward a bit, and the internet has entered my life.\
 I learned to seek answers to my trivial questions by searching up Reddit, YouTube, and when I'm really desperate, Quora.\
 The discourses on Reddit, the personal opinions from the Youtubers, and the general opinions from the recommended books are the values I shape my life around.\
-Things were good, I felt like I knew what I was doing, and that I was making more right decisions by aligning them with other people's opinions.\
+Things were good, I felt like I knew what I was doing, and that I was making more right decisions by aligning them with other people's opinions.
+
 Adopting other people's opinions works well, until they stop working.\
 No matter how sound the opinions of others are at the start, at some point, I can't relate to them anymore, or I just straight up forget them without any second thought.\
 Time after time when this happens, I begin my search again for the answers that I wanted to hear, like it has never happened.\

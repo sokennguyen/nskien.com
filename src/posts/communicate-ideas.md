@@ -18,7 +18,7 @@ I have been more interested in improving this aspect of myself recently.
 I've searched for communication books to read, but the books that I've found about this topic don't go into the process of turning thoughts into vocals or written words like what I've been trying to find.
 This have let me to do this study by myself.
 I then having a closer look in conversations and speeches that I can find online, and notice their speaking patterns.
-And I see that there are two ways that points are form in both of these two kinds, and I call them "progressive", "listing", and "comparative".
+And I see that there are three ways that points are form in conversations and speeches, I call them "progressive", "listing", and "comparative".
 
 A point, or an argument, can be formed by giving a series of progressive points, starting from one spot to arrive to the conclusion, which is the point the speaker are trying to make. 
 I imagine this way of expressing a point like a journey.

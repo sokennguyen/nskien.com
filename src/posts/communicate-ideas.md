@@ -28,7 +28,7 @@ Finally, a point can also be expressed by not one series of small points, but as
 
 When trying to give out a point, the speaker can switch in between these three ways. The speaker can start out their point, or "paragraph", by choosing one of the three ways described above. The supporting points of that "paragraph" can then be further explained using a small section of a different form of expression, then return to the main progress, list, or comparison that they have initially started with.
 
-It's also worth noting that in during a conversation, sometimes the point isn't arrived after a person's turn of speaking, and are sidetracked into another subject.
+It's also worth noting that in during a conversation, sometimes a point isn't arrived after a person's turn of speaking, and the conversation is sidetracked into another subject.
 This is totally fine in a conversation, as there are also values in the supporting ideas that the speaker have given in their turn, even though they aren't accumulated into a full point at the end.
 
 Being able to notice these three ways that ideas are being conveyed can help you better understand what others are trying to convey, and help you practice putting your thoughts into a more cohesive order so that other people can have an easier time understanding what you're trying make them understand.

@@ -22,7 +22,7 @@ I saw that there are three ways that points are form in conversations and speech
 
 A point, or an argument, can be formed by giving a series of progressive points, starting from one spot to arrive to the conclusion, which is the point the speaker are trying to make. 
 I imagine this way of expressing a point like a journey.
-The speaker start at a location where there beliefs are one way, and after going through different scenarios or supporting points, arriving at the final point they're trying to convey.\
+The speaker start at a location where their beliefs are one way, and after going through different scenarios or supporting points, arriving at the final point they're trying to convey.\
 A point can also be expressed through a list of small supporting points, which act as ingredients to produce the big point at the end. \
 Finally, a point can also be expressed by not one series of small points, but as as a comparison, where a series of small points are put into one side of the argument is compared by another series of points on the other side.
 

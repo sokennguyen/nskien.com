@@ -7,6 +7,9 @@
   --navy: #151515;
   --blue: #082840;
   --white: #fff;
+  --light-orange: #eeeee4;
+  --black: ##21130d;
+  --orange: #e28743;
 }
 * {
   box-sizing: border-box;
@@ -17,12 +20,13 @@ body {
   flex-direction:column;
   padding: 0;
   margin: 0;
+  height: 100%;
   font-size: 1em;
   align-items:center;
-  justify-content:center;
+  justify-content:start;
   font-family: config rounded, system-ui, sans-serif;
-  color: var(--white);
-  background-color: var(--navy);
+  color: var(--black);
+  background-color: var(--light-orange);
 }
 p:last-child {
   margin-bottom: 0;
@@ -34,7 +38,24 @@ p,
 .tmpl-sprint li,
 .tmpl-sprints li,
 img {
-  max-width: 37.5em; /* 600px /16 */
+  max-width: 40.5em; /* 600px /16 */
+}
+.clickable-img {
+  width: 100%;
+  margin: 30px 0 ;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  gap: 1px;
+}
+.clickable-img p {
+  margin: 0;
+}
+img {
+  width: 100%;
+  object-fit: contain;
 }
 p,
 .tmpl-post li,
@@ -45,14 +66,14 @@ p,
   line-height: 1.45;
 }
 a[href] {
-  color: var(--darkgray);
+  color: var(--orange);
 }
 a[href]:visited {
-  color: var(--darkgray);
+  color: var(--orange);
 }
 main {
   padding: 1rem;
-  max-width: 32rem;
+  max-width: 64rem;
 }
 main :first-child {
   margin-top: 0;
@@ -156,24 +177,25 @@ hr {
 }
 
 /* Header */
-.home {
-  padding: 0 1rem;
-  float: left;
-  margin: 1rem 0; /* 16px /16 */
-  font-size: 1rem; /* 16px /16 */
+.about {
+  margin: 0 0 3rem 0; /* 16px /16 */
+  font-size: 3rem; /* 16px /16 */
 }
-.home :link:not(:hover) {
+.about :link:not(:hover) {
   text-decoration: none;
 }
 /* Content */
 h1 {
   font-size: 3rem;
+  color:orange;
 }
 h2 {
   font-size: 2rem;
+  color:orange;
 }
 h3 {
   font-size: 1.5rem;
+  color:orange;
 }
 
 /* Nav */
@@ -225,7 +247,7 @@ h3 {
 .sprintslist-date,
 .sprintslist-item:before {
   font-size: 0.8125em; /* 13px /16 */
-  color: var(--white);
+  color: var(--black);
 }
 .postlist-date,
 .storieslist-date,

@@ -15,7 +15,8 @@
   </head>
   <body>
     <header>
-      <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+      <!--
+      <h1 class="home"><a href="{{ '/' | url }}"></a></h1>
 
       {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
       <ul class="nav">
@@ -24,10 +25,12 @@
         <li class="nav-item"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
       {%- endfor %}
       </ul>
+      -->
     </header>
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
 
+      <h1 class="about"><a href="{{ '/' | url }}">Kien Nguyen</a></h1>
 
       {{ content | safe }}
     </main>

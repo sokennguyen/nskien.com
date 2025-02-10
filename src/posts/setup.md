@@ -1,6 +1,6 @@
 ---
 date: 2025-02-10
-titie: A Distraction-free Setup
+title: A Distraction-free Setup
 description: throw away your tv
 tags:
   - post

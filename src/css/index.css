@@ -267,9 +267,32 @@ h3 {
 /* Lists */
 .postlist,
 .storieslist,
-.sprintslist {
+.sprintslist,
+.songlist {
   list-style: none;
   padding: 0;
+}
+
+.songlist {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.songlist-item {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.songlist-item h4,
+.songlist-item p {
+  margin: 0;
+}
+
+.songlist-item img {
+  width: 110px;
+  height: 110px;
 }
 
 /*.postlist-item,

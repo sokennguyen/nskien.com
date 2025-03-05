@@ -3,11 +3,13 @@ layout: layouts/home.njk
 cssFile: 'home.css'
 ---
 
-[Writes](/thoughts) about learning, design, software, and ideas.
+[Writes](/thoughts) about time, beauty, and sometimes, technical things.
 
 Made a [dream journaling app](https://dreamember.xyz).
 
 Creates stuff to learn, hoping those things will become cool someday.
+
+Is obsessed with these songs and movies.
 
 Loves meeting new people, and replies to every mail, so say [hello](mailto:%20nsongkien@gmail.com)!
 

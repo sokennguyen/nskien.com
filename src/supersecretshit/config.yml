@@ -1,24 +1,40 @@
 ---
 backend:
   name: git-gateway
-  repo: sokennguyen/nskien.xyz
+  repo: sokennguyen/nskien.com
   branch: main
 media_folder: "/src/img"
 public_folder: "/posts"
 collections:
   - name: "post"
-    label: "Post"
+    label: "post"
     folder: "/src/posts"
     create: true
     slug: "{{slug}}"
     fields:
-      - label: "Date"
+      - label: "date"
         name: "date"
         widget: "datetime"
         default: ""
-        date_format: "YYYY-MM-DD" # e.g. 24.12.2021
+        date_format: "yyyy-mm-dd" # e.g. 24.12.2021
         time_format: false
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
-      - {label: "Tags", name: "tags", widget: "list", default: ["post"] }
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "title", name: "title", widget: "string"}
+      - {label: "description", name: "description", widget: "string"}
+      - {label: "tags", name: "tags", widget: "list", default: ["post"] }
+      - {label: "body", name: "body", widget: "markdown"}
+  - name: "song"
+    label: "song"
+    folder: "/src/songs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "date"
+        name: "date"
+        widget: "datetime"
+        default: ""
+        date_format: "yyyy-mm-dd" # e.g. 24.12.2021
+        time_format: false
+      - {label: "title", name: "title", widget: "string"}
+      - {label: "description", name: "description", widget: "string"}
+      - {label: "tags", name: "tags", widget: "list", default: ["post"] }
+      - {label: "body", name: "body", widget: "markdown"}

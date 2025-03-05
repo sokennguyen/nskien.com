@@ -1,0 +1,13 @@
+<h2>Obsessed songs</h2>
+<p>That Kien plays on repeat</p>
+<hr>
+<ul reversed class="songlist" >
+{% for post in songlist | reverse %}
+  <li class="songlist-item">
+    {% if post.data.art %}<img src="/img/album-covers/{{post.data.art}}">{% else %}I forgot to put a name for this song</img>{% endif %}
+    <h4 class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}I forgot to put a name for this song{% endif %}</h4>
+    <p class="postlist-link">{% if post.data.artist %}{{ post.data.artist }}{% else %}I forgot to name the artist for this song{% endif %}</p>
+  </li>
+{% endfor %}
+</ul>
+

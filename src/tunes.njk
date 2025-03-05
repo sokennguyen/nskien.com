@@ -1,0 +1,9 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-base
+eleventyNavigation:
+  key: tunes
+  order: 2
+---
+{% set songlist = collections.songs %}
+{% include "songsList.njk" %}

@@ -4,7 +4,7 @@ backend:
   repo: sokennguyen/nskien.com
   branch: main
 media_folder: "/src/img"
-public_folder: "/posts"
+public_folder: "/img"
 collections:
   - name: "post"
     label: "post"
@@ -35,6 +35,6 @@ collections:
         date_format: "yyyy-mm-dd" # e.g. 24.12.2021
         time_format: false
       - {label: "title", name: "title", widget: "string"}
-      - {label: "description", name: "description", widget: "string"}
+      - {label: "artist", name: "artist", widget: "string"}
+      - {label: "art", name: "art", widget: "image"}
       - {label: "tags", name: "tags", widget: "list", default: ["post"] }
-      - {label: "body", name: "body", widget: "markdown"}

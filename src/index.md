@@ -9,7 +9,7 @@ Made a [dream journaling app](https://dreamember.xyz).
 
 Creates stuff to learn, hoping those things will become cool someday.
 
-Is obsessed with these songs and movies.
+Is obsessed with these [songs](/tunes) and [movies](https://letterboxd.com/nskien/likes/films/).
 
 Loves meeting new people, and replies to every mail, so say [hello](mailto:%20nsongkien@gmail.com)!
 

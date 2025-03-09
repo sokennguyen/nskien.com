@@ -7,7 +7,7 @@ cssFile: 'home.css'
 
 Creates stuff to learn, hoping those things will become cool someday.
 
-Like these [tunes](https://music.nskien.com), or this [dream journaling app](https://dreamember.xyz)
+Like these [tunes](https://music.nskien.com), or this [dream journaling app](https://dreamember.xyz).
 
 Is obsessed with these [songs](/tunes) and [movies](https://letterboxd.com/nskien/likes/films/).
 

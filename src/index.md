@@ -5,9 +5,7 @@ cssFile: 'home.css'
 
 [Writes](/thoughts) about time, beauty, and sometimes, technical things.
 
-Creates stuff to learn, hoping those things will become cool someday.
-
-Like these [tunes](https://music.nskien.com), or this [dream journaling app](https://dreamember.xyz).
+Creates these [tunes](https://music.nskien.com), hoping them will become cool someday.
 
 Is obsessed with these [songs](/tunes) and [movies](https://letterboxd.com/nskien/likes/films/).
 

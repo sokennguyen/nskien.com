@@ -1,6 +1,6 @@
 ---
 date: 2025-01-21
-title: It's About Time
+title: Home From Home
 artist: The Delegates
 art: itsabouttime.jpg
 tags:

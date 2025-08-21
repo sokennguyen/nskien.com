@@ -3,13 +3,13 @@ layout: layouts/home.njk
 cssFile: 'home.css'
 ---
 
-[Writes](/thoughts) about time, beauty, and sometimes, technical things.
+Hello and welcome! This is my little corner of web.
 
-Creates these [tunes](https://music.nskien.com), hoping them will become cool someday.
+I [write](/thoughts) about things that ponders my head. Time, art, human minds, and technical things are some of the things I usually think about.
 
-Is obsessed with these [songs](/tunes) and [movies](https://letterboxd.com/nskien/likes/films/).
+I'm obsessed with these [songs](/tunes) and [movies](https://letterboxd.com/nskien/likes/films/).
 
-Loves meeting new people, and replies to every mail, so say [hello](mailto:%20nsongkien@gmail.com)!
+I love meeting new people, and replies to every mail, so say [hello](mailto:%20nsongkien@gmail.com)!
 
 <div class="clickable-img">
   <a href="/img/nice.jpeg">

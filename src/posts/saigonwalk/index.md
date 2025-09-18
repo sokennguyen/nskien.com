@@ -24,7 +24,7 @@ tags:
 
 In the last days of my trip to my home city, I've decided that I must see the city not as just a place to enjoy ,to have nice meals and drink, but to review the city as the place I've been growing up in. Having walked around alot since I've move to another country, I thought that the best way for me to see the city is to slowly walk through it, to see the lives and the places with deeper eyes.
 
-This is my adventure in Sai Gon. Below are the thoughts I had as I walked, and the scenes I saw as I think about them. I have kept these thoughts unedited just as they are in my head as I think about them, and because of this, some thoughts are not as clear as others (and yes, cursing happened). Thoughts are not the only thing that appears in my head while I walked, but songs came up alot as well. I've also written down the songs that came up at that moment, and those sections simply called "song". 
+This is my adventure in Sai Gon. Below are the thoughts I had as I walked, and the scenes I saw as I think about them. I have kept these thoughts unedited just as they are in my head as I think about them, and because of this, some thoughts are not as clear as others (and yes, cursing happened). Thoughts are not the only thing that appears in my head while I walked, but songs came up alot as well. I've also written down the songs that came up at that moment, and those sections simply called "song".
 
 I don't know if this is beneficial or interesting for others to read, but I try to be transparent and authentic as possible to perhaps inspire others to travel the same way I did. I believe that this was one or if not the most memorable journey I've been through in my trip to Viet Nam.
 
@@ -68,7 +68,7 @@ I don't know if this is beneficial or interesting for others to read, but I try 
 - fahasa's office is here. Neat.
 - a melody popped up in my head, and its lyrics go like: i just wanting you to stay here. I don't want you to disapear. You take the things that i know. And throw them away where's  your soulouloul
 
-### 0650: Alley next to Tran Hung Dao 
+### 0650: Alley next to Tran Hung Dao
 ![0650](./0650.jpg)
 - first banh mi. Sooo good
 - finished banh mi. So good that i coulnt think of anything beside it
@@ -88,7 +88,7 @@ I don't know if this is beneficial or interesting for others to read, but I try 
 - enough rest. Off I go again.
 - looking good is nice, but you gotta relax. Posing too hard while looking good will make you look weird lol
 
-### 0801: Nguyen Thai Hoc park 
+### 0801: Nguyen Thai Hoc park
 ![0801](./0801.jpg)
 - feet is hurting. Need a pair of socks asap.
 - people are dancing in the park. Prolly a dance class. Looks so fun haha.
@@ -127,7 +127,7 @@ I don't know if this is beneficial or interesting for others to read, but I try 
 - tony LED's store?
 - pet stores are so cute.. but may are a bit... amoral? Is the whole having pets thing amoral? Probably not. These animals would've had shorter live span than they'd have been with humans. But then you can say the same thing for slavery? No, those two are not the same because pets don't do much for human beside supporting us emotionally.
 
-### 1016: Dien Bien Phu 
+### 1016: Dien Bien Phu
 - forgot where I wanted to go.
 - 3rd time in today people've mistaken me for a Korean (no bloating).
 - sitting at the sidewalk and don't want to move
@@ -143,7 +143,7 @@ I don't know if this is beneficial or interesting for others to read, but I try 
 ![1056](./1056.jpg)
 - ah... wedding photoshoot. Not something you see everyday.
 
-### 1056: Ministop Nguyen Thien Thuat 
+### 1056: Ministop Nguyen Thien Thuat
 - couldn't resist the coolness of the store and the escape from the scorched heat. Even though I'm soaked in sweat, I'm less tired than before. I'm guessing partly because I stopped stressing out following google maps to a T, but spend my mental energy for other thoughts instead. That took away my focus on the act of walking itself, and direct it towards other thoughts.
 - a purpose of living is to take care of the people you love.
 - passion is your joy, but joy doesn't give you food. Don't avoid your passion, but also don't make it your whole identity.

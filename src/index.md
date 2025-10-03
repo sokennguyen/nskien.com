@@ -3,9 +3,9 @@ layout: layouts/home.njk
 cssFile: 'home.css'
 ---
 
-Hello and welcome! This is my little corner of web.
+Hello and welcome! This is my little corner of the web.
 
-I [write](/thoughts) about things that ponders my head. Time, art, human minds, and technical things are some of the things I usually think about.
+I [write](/thoughts) about things that ponder my head. Time, art, human minds, and technical things are some of the stuff I usually think about.
 
 I'm obsessed with these [songs](/tunes) and [movies](https://letterboxd.com/nskien/likes/films/).
 

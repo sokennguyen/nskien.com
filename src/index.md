@@ -7,7 +7,7 @@ Hello and welcome! This is my little corner of the web.
 
 I [write](/thoughts) about things that ponder my head. Time, art, human minds, and technical things are some of the stuff I usually think about.
 
-I'm obsessed with these [songs](/tunes) and [movies](https://letterboxd.com/nskien/likes/films/).
+I'm obsessed with these [songs](/tunes) and [movies](https://trakt.tv/users/soken/ratings/movies/10/popularity/asc?genres=).
 
 I love meeting new people, and replies to every mail, so say [hello](mailto:%20nsongkien@gmail.com)!
 

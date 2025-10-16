@@ -71,14 +71,16 @@ module.exports = function (eleventyConfig) {
   let markdownLibrary = markdownIt({
     html: true,
     breaks: true,
-    linkify: true,
+    linkify: false,
   })
+    .use(markdownItAttrs, {
+      allowedAttributes: ["id", "class", /^data-.*/],
+    })
     .use(markdownItAnchor, {
       permalink: true,
       permalinkClass: "direct-link",
       permalinkSymbol: "#",
-    })
-    .use(markdownItAttrs);
+    });
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Browsersync Overrides
